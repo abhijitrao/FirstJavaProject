@@ -4,7 +4,6 @@ public class Test {
 		
 		for (int i=05;i<10;i++){
 			System.out.println(i+" Indexing");
-			
 		}
 	}
 }
